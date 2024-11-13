@@ -2,6 +2,7 @@ Name: Mohd Hassan
 Company: CODETECH IT SOLUTIONS
 ID: CT08DS9384
 Domain: Frontend Web Development
+Duration: From 17 October 2024 to 17 November 2024
 Mentor: Sravani Gouni
 
 **Overview of the To-Do List Web Application**
